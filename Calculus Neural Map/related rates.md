@@ -1,0 +1,3 @@
+arelated rates uses calculus to calculate the rate of change of one value in proportion to another value. Typically, this may involve the change in angle as the side of a triangle changes, volume/surface area change as radius changes, or simply similar triangles.
+
+When solving a related rates problem, the best approach is to identify what you are solving for, and write down all equations that has variables relevant to what you are solving for. From there, write down any other given information. It is also helpful to draw a sketch of the scenario given. From there, differentiate equations and arrange to solve for the answer.

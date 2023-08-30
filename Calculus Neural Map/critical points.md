@@ -1,0 +1,1 @@
+Critical points are any points along a function $f(x)$ where $f'(x) = 0$. Critical points may be a relative or absolute min or max. More on this topic is described in [[graph properties]]. 
