@@ -23,8 +23,12 @@
             "id": "ffa5896b29f7eada",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calculus Neural Map/Parametric Coordinates.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calculus Neural Map/Parametric Coordinates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calculus Neural Map/Parametric Coordinates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calculus Neural Map/Parametric Coordinates.md"
+              }
             }
           }
         ]
@@ -153,16 +161,25 @@
   },
   "active": "ffa5896b29f7eada",
   "lastOpenFiles": [
+    "Calculus Neural Map/optimization.md",
+    "Calculus Neural Map/integral.md",
+    "Calculus Neural Map/critical points.md",
+    "Calculus Neural Map/fundamental theorem of calculus.md",
+    "Calculus Neural Map/Series and Sequences.md",
+    "Calculus Neural Map/related rates.md",
+    "Calculus Neural Map/Derivative.md",
+    "Calculus Neural Map/Limit.md",
+    "Calculus Neural Map/L'Hopitals rule.md",
+    "Calculus Neural Map/graph properties.md",
+    "Calculus Neural Map/differential equations.md",
+    "Calculus Neural Map/Conics.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Calculus Neural Map/Polar Coordinates.md",
     "Calculus Neural Map/linear approximations.md",
     "Calculus Neural Map/tangent line.md",
-    "Calculus Neural Map/Conics.md",
     "Calculus Neural Map/surface areas.md",
     "Calculus Neural Map/rectilinear motion.md",
-    "Calculus Neural Map/Parametric Coordinates.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Calculus Neural Map/integral.md",
-    "Calculus Neural Map/graph properties.md"
+    "Calculus Neural Map/Parametric Coordinates.md"
   ]
 }
