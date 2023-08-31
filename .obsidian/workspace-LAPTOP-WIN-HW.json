@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "6858ddc59f5dc8bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "008451466ee6856a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e6d283cdb99bfa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Daily Notes/2022-11-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4cdf6a7dcc4b466",
+    "type": "split",
+    "children": [
+      {
+        "id": "c65a058fb71e7927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56584c322105eb46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16629532e60df389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2163755034ca3875",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4660e526bf38923",
+    "type": "split",
+    "children": [
+      {
+        "id": "168f5478fd7d7770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2c08a7d5a9385df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Daily Notes/2022-11-30.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8d9878cce3c07cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Daily Notes/2022-11-30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cd95d5a5a7720b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a88b5a6bfeb8e437",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Daily Notes/2022-11-30.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6e6d283cdb99bfa2",
+  "lastOpenFiles": [
+    "Obsidian Daily Notes/2022-11-29.md",
+    "Obsidian Daily Notes/2022-11-28.md",
+    "Obsidian Daily Notes/2022-11-30.md"
+  ]
+}
